@@ -1,1 +1,2 @@
-from: git-default
+info:
+  profile: default
