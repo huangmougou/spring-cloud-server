@@ -1,2 +1,1 @@
-info:
-  profile: prod
+from: git-prod
